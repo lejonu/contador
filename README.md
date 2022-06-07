@@ -1,0 +1,3 @@
+# Contador Javascript
+
+### Utilizando addEventListener
